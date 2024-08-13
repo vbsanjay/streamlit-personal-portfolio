@@ -4,7 +4,7 @@ import requests
 # function to fetch project from my git hub
 def projects():
     GITHUB_USERNAME = 'vbsanjay'
-    project_list = ['Python-Django-DevSearch']
+    project_list = ['Python-Django-DevSearch', 'streamlit-personal-portfolio']
     url = f'https://api.github.com/users/{GITHUB_USERNAME}/repos'
 
     response = requests.get(url)
