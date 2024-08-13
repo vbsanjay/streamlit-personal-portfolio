@@ -5,10 +5,10 @@ def achievements_section():
     st.subheader("Achievements")
     st.markdown("**Scaler Academy**")
     st.write("""
-    - Top 10 in the DSA Contest.
-    - 400 days coding streak.
+    - 🏅 Top 10 in the DSA Contest.
+    - 🔥 400 days coding streak.
     """)
     st.markdown("**Amazon**")
     st.write("""
-    - Promoted from Testing Associate to Senior Testing Associate
+    -  ⭐️ Promoted from Testing Associate to Senior Testing Associate
     """)
