@@ -17,4 +17,4 @@ def hero_section(profile_pic, pdf_byte):
             file_name="Sanjay_Resume_Software_Developer.pdf",
             mime="application/octet-stream"
         )
-        st.write("📧 vbsanjay815@gmail.com")
+        st.markdown("[📧 vbsjygiri2040@gmail.com](mailto:vbsjygiri2040@gmail.com)")
